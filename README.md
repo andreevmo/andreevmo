@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**andreevmo/andreevmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Max. I am a novice java developer. 
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- JUnit 5
+- Gradle
+- Git(Github)
+- OOP
+- Linux(Ubuntu basic level)
+- Data Structures
+
+### Follow Me:
+
+Telegram: https://t.me/and_maxim
+
+Email: maxiandreev1994@gmail.com
