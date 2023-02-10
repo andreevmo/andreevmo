@@ -5,15 +5,16 @@ I'm Max. I am a novice java developer.
 ### Languages and Tools:
 
 - Java;
-- Javalin;
-- Ebean;
 - SQL;
-- JUnit, Mockito, Unirest-Java;
+- JUnit;
 - Gradle;
 - Git(Github);
 - OOP;
 - Linux(Ubuntu basic level);
-- Data Structures.
+- Data Structures;
+- Spring Boot;
+- Spring Data JPA;
+- Spring Security.
 
 ### Follow Me:
 
