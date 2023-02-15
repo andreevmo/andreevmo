@@ -13,6 +13,7 @@ I'm Max. I am a novice java developer.
 - Linux(Ubuntu basic level);
 - Data Structures;
 - Spring Boot;
+- Spring Web;
 - Spring Data JPA;
 - Spring Security.
 
